@@ -20,33 +20,34 @@ Takım Unity 31
 
 [Team U-31 Trello Çalışma Alanı](https://trello.com/w/u31calismaalani)
 
-## Oyun Açıklaması
+# Oyun Açıklaması
 
-# Genel Bakış
+## Genel Bakış
 
-# Oyun Mekaniği
+## Oyun Mekaniği
 
-# Oyun Dünyası
+## Oyun Dünyası
 
-# Karakterler
+## Karakterler
 
-# Hikaye ve Görevler
+## Hikaye ve Görevler
 
-# Sanat ve Görseller
+## Sanat ve Görseller
 
-# Ses Tasarımı
+## Ses Tasarımı
 
-# İlerleme ve Zorluk
+## İlerleme ve Zorluk
 
-# Pazarlama ve Dağıtım
+## Pazarlama ve Dağıtım
 
-# Geliştirme Planı
+## Geliştirme Planı
 
-# Test ve Geri Bildirim
+## Test ve Geri Bildirim
 
-# ?Çok Oyunculu Mod?
+## ?Çok Oyunculu Mod?
 
-# Hedef Kitle
+## Hedef Kitle
 
-# Juriye Not
+## Juriye Not
+
 ---
