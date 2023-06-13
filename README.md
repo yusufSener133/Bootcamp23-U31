@@ -6,11 +6,11 @@ Takım Unity 31
 
 ## Takım Elemanları
 
-- Yusuf ŞENER		: Developer/ Scrum Master/ Product Owner
-- Elif Ece AKKAYA	: Developer/ Artist
+- Yusuf ŞENER		: Developer / Scrum Master
+- Elif Ece AKKAYA	: Developer / Artist
 - Can KEÇİLİOĞLU	: Developer
 - Emre ERDOĞDU		: Developer
-- Serra Betül UYSAL	: Artist
+- Serra Betül UYSAL	: Artist / Product Owner
 
 ## Oyun İsmi
 
