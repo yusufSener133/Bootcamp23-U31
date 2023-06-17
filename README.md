@@ -10,7 +10,7 @@ Takım Unity 31
 - Elif Ece AKKAYA	: Developer / Artist
 - Can KEÇİLİOĞLU : Developer
 - Emre ERDOĞDU : Developer
-- Serra Betül UYSAL	: Artist / Product Owner
+- Serra Betül UYSAL	: Developer / Artist / Product Owner
 
 ## Oyun İsmi
 
