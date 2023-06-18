@@ -7,10 +7,10 @@ Takım Unity 31
 ## Takım Elemanları
 
 - Yusuf ŞENER : Developer / Scrum Master
-- Elif Ece AKKAYA	: Developer / Artist
+- Elif Ece AKKAYA	: Developer
 - Can KEÇİLİOĞLU : Developer
 - Emre ERDOĞDU : Developer
-- Serra Betül UYSAL	: Developer / Artist / Product Owner
+- Serra Betül UYSAL	: Artist / Product Owner
 
 ## Oyun İsmi
 
@@ -54,8 +54,9 @@ Takım Unity 31
 ![Backlog 1](https://cdn.discordapp.com/attachments/1116092237571440730/1119976289462403233/Sprint_1.jpg) 
 
 
-- **Sprint Review**: 
-Alınan kararlar: Günlük Scrum için mesaj kalıbı oluşturuldu ve görevlerin sunumunda görsellerin kullanılmasına karar verildi.
+- **Sprint Review**:Alınan kararlar:
+  - Günlük Scrum için mesaj kalıbı oluşturuldu.
+  - Görevlerin sunumunda görsellerin kullanılmasına karar verildi.
 
 
 - **Sprint Retrospective:**
