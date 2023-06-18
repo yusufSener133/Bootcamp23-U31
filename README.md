@@ -22,32 +22,19 @@ Takım Unity 31
 
 # Oyun Açıklaması
 
-- **Genel Bakış**:
+- **Genel Bakış**: Oyunumuz, atari salonunda başlar. Atari salonunda çeşitli oyunlar bulunmaktadır ve bu oyunlar aracılığıyla Papatya ve Mantar'ın hikayesi anlatılmaktadır. Oyuncu, farklı atarilerdeki oyunlarla etkileşime girerek gizlenme, platform, dövüş, macera gibi çeşitli türlerde oyunlar oynamaktadır. Bu oyunlar, Papatya ve Mantar'ın hikayeyi keşfetmek için önemli bir rol oynamaktadır. Oyuncu, bu farklı oyunlar aracılığıyla heyecan verici bir deneyim yaşamaktadır.
 
-- **Oyun Mekaniği**:
+- **Oyun Mekaniği**: Oyunda birçok farklı mekanik bulunmaktadır. Ana mekanik, oyuncunun atari seçerek oyunlara geçiş yapma anıdır. Her bir ataride farklı mekanikler bulunur, bu da oyunların çeşitliliğini artırır. Bu mekanikler arasında iki farklı karakter mekaniği, eşyaları toplama mekaniği, savaş mekaniği, gizlilik mekaniği gibi çeşitli öğeler bulunur. Oyuncu, bu mekanikleri kullanarak oyun dünyasında ilerler, görevleri tamamlar ve hikayeyi keşfeder. Her atari, farklı bir oyun deneyimi sunar ve oyuncunun becerilerini çeşitli şekillerde test eder. Oyun mekaniği, çeşitlilik ve heyecan verici deneyimler sunarak oyuncuların ilgisini çekmeyi hedefler.
 
-- **Oyun Dünyası**:
+- **Oyun Dünyası**: Atari salonumuz, retro tarzda tasarlanmış bir ortamı yansıtmaktadır. Oyunda yer alan farklı oyunlar, yetimhane, orman, kasaba gibi çeşitli mekanlarda geçmektedir.
 
-- **Karakterler**:
+- **Karakterler**: Papatya; Papatya, cesur ve meraklı bir kız çocuğudur. Hikayede annesini aramak için yola çıkmıştır. Mantar; Mantar, Papatya'nın en iyi arkadaşıdır. O da cesur ve kararlı bir karakterdir.
 
-- **Hikaye ve Görevler**:
-
-- **Sanat ve Görseller**:
-
-- **Ses Tasarımı**:
-
-- **İlerleme ve Zorluk**:
-
-- **Pazarlama ve Dağıtım**:
-
-- **Geliştirme Planı**:
-
-- **Test ve Geri Bildirim**:
-
-
+- **Hikaye ve Görevler**: Oyuncu, Papatya ve Mantar'ın yetimhaneden kaçıp maceralarını yaşadığı bir hikayeyi takip etmektedir. Görevler, oyunlar oynayarak puan kazanmayı, düşmanları yenmeyi ve tablonun parçalarını toplamayı içermektedir. Oyuncu, yetimhanede yaşanan patlamayı öğrenir, haydutları yener, kasabadaki görevleri tamamlar ve yeni maceralara atılır.
 
 ## Hedef Kitle
 
+- Bu oyun, genellikle arcade oyunlarına ilgi duyan çocuklar ve gençler için tasarlanmıştır. Hikayesi ve renkli grafikleriyle çocuklara hitap ederken, zorluk seviyesi ve oynanabilirlik özellikleriyle genç oyuncuları da etkileyebilir.
 ## Juriye Not
 
 ---
@@ -67,5 +54,13 @@ Takım Unity 31
 ![Backlog 1](https://cdn.discordapp.com/attachments/1116092237571440730/1119976289462403233/Sprint_1.jpg) 
 
 
+- **Sprint Review**: 
+Alınan kararlar: Günlük Scrum için mesaj kalıbı oluşturuldu ve görevlerin sunumunda görsellerin kullanılmasına karar verildi.
 
-  
+
+- **Sprint Retrospective:**
+  - Eksiklikler ve iletişimsizlik: Kişisel yoğunluklar (sınavlar, işler vb.) nedeniyle oluşan görev eksiklikleri ve iletişimsizlik konuları tartışıldı ve giderilmesi için çözümler arandı.
+  - Aktif katılım: Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapıldı ve katılımın artırılması için stratejiler belirlendi.
+
+
+---
