@@ -22,32 +22,50 @@ Takım Unity 31
 
 # Oyun Açıklaması
 
-## Genel Bakış
+- **Genel Bakış**:
 
-## Oyun Mekaniği
+- **Oyun Mekaniği**:
 
-## Oyun Dünyası
+- **Oyun Dünyası**:
 
-## Karakterler
+- **Karakterler**:
 
-## Hikaye ve Görevler
+- **Hikaye ve Görevler**:
 
-## Sanat ve Görseller
+- **Sanat ve Görseller**:
 
-## Ses Tasarımı
+- **Ses Tasarımı**:
 
-## İlerleme ve Zorluk
+- **İlerleme ve Zorluk**:
 
-## Pazarlama ve Dağıtım
+- **Pazarlama ve Dağıtım**:
 
-## Geliştirme Planı
+- **Geliştirme Planı**:
 
-## Test ve Geri Bildirim
+- **Test ve Geri Bildirim**:
 
-## ?Çok Oyunculu Mod?
+
 
 ## Hedef Kitle
 
 ## Juriye Not
 
 ---
+
+# Sprint 1
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600+400(ekstralar olarak) puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in sınavların yoğunluğundan en azından 100 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Kişisel yoğunluklar ve iletişimsizlikten sprint 1 için daily scrum oluşturmadı.
+
+
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://cdn.discordapp.com/attachments/1116092237571440730/1119976289462403233/Sprint_1.jpg) 
+
+
+
+  
