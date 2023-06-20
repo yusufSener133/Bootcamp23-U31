@@ -55,10 +55,10 @@ Takım Unity 31
 
 
 - **Ürün Durumu**: Taslak çizimler:
-  ![Taslak 1](https://media.discordapp.net/attachments/1120694806855815268/1120694912304824341/1.jpg?width=480&height=640)
-  ![Taslak 2](https://media.discordapp.net/attachments/1120694806855815268/1120694910203478106/6.jpg?width=853&height=640)
-  ![Taslak 3](https://media.discordapp.net/attachments/1120694806855815268/1120694911369490503/4.jpg?width=480&height=640)
-  ![Taslak 4](https://media.discordapp.net/attachments/1120694806855815268/1120694910807449672/5.jpg?width=853&height=640)
+  - ![Taslak 1](https://media.discordapp.net/attachments/1120694806855815268/1120694912304824341/1.jpg?width=480&height=640)
+  - ![Taslak 2](https://media.discordapp.net/attachments/1120694806855815268/1120694910203478106/6.jpg?width=853&height=640)
+  - ![Taslak 3](https://media.discordapp.net/attachments/1120694806855815268/1120694911369490503/4.jpg?width=480&height=640)
+  - ![Taslak 4](https://media.discordapp.net/attachments/1120694806855815268/1120694910807449672/5.jpg?width=853&height=640)
 
 
 - **Sprint Review**:Alınan kararlar:
