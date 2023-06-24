@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class CharacterController : MonoBehaviour
 {
-    [SerializeField] private float m_JumpForce = 300f;
+    [SerializeField] private float m_JumpForce = 400f;
     [Range(0, .3f)] [SerializeField] private float m_MovementSmoothing = .05f; // How much to smooth out the movement
 
     [SerializeField] private bool m_AirControl = false; // Whether or not a player can steer while jumping;
@@ -40,7 +40,7 @@ public class CharacterController : MonoBehaviour
 
         // The player is grounded if a circlecast to the groundcheck position hits anything designated as ground
         // This can be done using layers instead but Sample Assets will not overwrite your project settings.
-        Collider[] colliders = Physics.OverlapSphere(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
         for (int i = 0; i < colliders.Length; i++)
         {
             if (colliders[i].gameObject != gameObject)
