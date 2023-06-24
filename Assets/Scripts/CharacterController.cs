@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class CharacterController : MonoBehaviour
 {
-    [SerializeField] private float m_JumpForce = 400f;
+    [SerializeField] private float m_JumpForce = 300f;
     [Range(0, .3f)] [SerializeField] private float m_MovementSmoothing = .05f; // How much to smooth out the movement
 
     [SerializeField] private bool m_AirControl = false; // Whether or not a player can steer while jumping;
@@ -40,7 +40,7 @@ public class CharacterController : MonoBehaviour
 
         // The player is grounded if a circlecast to the groundcheck position hits anything designated as ground
         // This can be done using layers instead but Sample Assets will not overwrite your project settings.
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
+        Collider[] colliders = Physics.OverlapSphere(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
         for (int i = 0; i < colliders.Length; i++)
         {
             if (colliders[i].gameObject != gameObject)
@@ -57,7 +57,7 @@ public class CharacterController : MonoBehaviour
         if (m_Grounded||m_AirControl)
         {
             // Move the character by finding the target velocity
-            Vector3 targetVelocity = new Vector2(move * 10f, player_Rb.velocity.y);
+            Vector3 targetVelocity = new Vector3(move * 10f, player_Rb.velocity.y,0f);
             // And then smoothing it out and applying it to the character
             player_Rb.velocity =
                 Vector3.SmoothDamp(player_Rb.velocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
@@ -81,7 +81,7 @@ public class CharacterController : MonoBehaviour
         {
             // Add a vertical force to the player.
             m_Grounded = false;
-            player_Rb.AddForce(new Vector2(0f, m_JumpForce));
+            player_Rb.AddForce(new Vector3(0f, m_JumpForce,0f));
         }
     }
     
