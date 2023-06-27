@@ -16,7 +16,7 @@ public class CharacterController : MonoBehaviour
     private bool m_FacingRight = true; // For determining which way the player is currently facing.
     private Vector3 m_Velocity = Vector3.zero;
     const float k_GroundedRadius = .2f; // Radius of the overlap circle to determine if grounded
-    private bool m_Grounded; // Whether or not the player is grounded.
+    public bool m_Grounded; // Whether or not the player is grounded.
 
     [Header("Events")] [Space] public UnityEvent OnLandEvent;
 
@@ -40,7 +40,7 @@ public class CharacterController : MonoBehaviour
 
         // The player is grounded if a circlecast to the groundcheck position hits anything designated as ground
         // This can be done using layers instead but Sample Assets will not overwrite your project settings.
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
+        Collider[] colliders = Physics.OverlapSphere(m_GroundCheck.position, k_GroundedRadius, m_WhatIsGround);
         for (int i = 0; i < colliders.Length; i++)
         {
             if (colliders[i].gameObject != gameObject)
@@ -59,8 +59,7 @@ public class CharacterController : MonoBehaviour
             // Move the character by finding the target velocity
             Vector3 targetVelocity = new Vector3(move * 10f, player_Rb.velocity.y,0f);
             // And then smoothing it out and applying it to the character
-            player_Rb.velocity =
-                Vector3.SmoothDamp(player_Rb.velocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
+            player_Rb.velocity = Vector3.SmoothDamp(player_Rb.velocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
 
             // If the input is moving the player right and the player is facing left...
             if (move > 0 && !m_FacingRight)

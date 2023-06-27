@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,22 +10,28 @@ public class PlayerMovement : MonoBehaviour
     public float runSpeed = 40f;
     private bool jump = false;
     private float horizontalMove = 0f;
-    
+
+    private void Awake()
+    {
+        _animator = GetComponent<Animator>();
+    }
+
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
         _animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
         
         if (Input.GetKeyDown(KeyCode.Space))
-        {
+        { 
             jump = true;
-         _animator.SetBool("jump",true);
+            _animator.SetBool("IsJumping",true);
         }
         
     }
     public void OnLanding ()
     {
         _animator.SetBool("IsJumping", false);
+        
     }
     void FixedUpdate ()
     {
