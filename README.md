@@ -35,7 +35,6 @@ Takım Unity 31
 ## Hedef Kitle
 
 - Bu oyun, genellikle arcade oyunlarına ilgi duyan çocuklar ve gençler için tasarlanmıştır. Hikayesi ve renkli grafikleriyle çocuklara hitap ederken, zorluk seviyesi ve oynanabilirlik özellikleriyle genç oyuncuları da etkileyebilir.
-## Juriye Not
 
 ---
 
@@ -50,7 +49,7 @@ Takım Unity 31
 - **Daily Scrum**: Kişisel yoğunluklar ve iletişimsizlikten sprint 1 için daily scrum oluşturmadı.
 
 
-- **Sprint board update**: Sprint board screenshotları:
+- **Sprint board update**: Sprint board screenshotı:
 ![Backlog 1](https://cdn.discordapp.com/attachments/1116092237571440730/1119976289462403233/Sprint_1.jpg) 
 
 
@@ -61,7 +60,7 @@ Takım Unity 31
   - ![Taslak 4](https://media.discordapp.net/attachments/1120694806855815268/1120694910807449672/5.jpg?width=853&height=640)
 
 
-- **Sprint Review**:Alınan kararlar:
+- **Sprint Review**: Alınan kararlar:
   - Günlük Scrum için mesaj kalıbı oluşturuldu.
   - Görevlerin sunumunda görsellerin kullanılmasına karar verildi.
 
@@ -70,5 +69,38 @@ Takım Unity 31
   - Eksiklikler ve iletişimsizlik: Kişisel yoğunluklar (sınavlar, işler vb.) nedeniyle oluşan görev eksiklikleri ve iletişimsizlik konuları tartışıldı ve giderilmesi için çözümler arandı.
   - Aktif katılım: Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapıldı ve katılımın artırılması için stratejiler belirlendi.
 
+
+## Product Backlog URL
+[Team U-31 Trello Çalışma Alanı](https://trello.com/w/u31calismaalani)
+---
+
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 300 Puan
+
+
+- **Daily Scrum**: Genel olarak düzenli bir şekilde ilerlenmeye çalışıldı.
+[Daily Scrum](https://cdn.discordapp.com/attachments/1116092237571440730/1125052847923404960/Daily_Scrum.txt)
+
+
+- **Sprint board update**: Sprint board screenshotı:
+![Backlog 2](https://media.discordapp.net/attachments/1116092237571440730/1125061623044911245/Screenshots.jpg?width=620&height=454)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://media.discordapp.net/attachments/1116092237571440730/1122534756643504248/image.png?width=824&height=454)
+  ![Screenshot 2](https://media.discordapp.net/attachments/1116092237571440730/1125063405649285250/Screenshot_1.png?width=817&height=454)
+  ![Screenshot 3](https://media.discordapp.net/attachments/1116092237571440730/1125054044046635068/Ekran_goruntusu_2023-07-02_161729.png?width=806&height=453)
+
+
+- **Sprint Review**: Alınan kararlar:
+  - Bir sonraki sprint için birbirimizin bölümlerine karşı revizeler ve düzenlemeler kararlaştırıldı. 
+
+- **Sprint Retrospective:**
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+## Product Backlog URL
+[Team U-31 Trello Çalışma Alanı](https://trello.com/w/u31calismaalani)
 
 ---
