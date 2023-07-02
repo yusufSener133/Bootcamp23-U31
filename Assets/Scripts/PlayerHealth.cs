@@ -8,7 +8,7 @@ public class PlayerHealth : MonoBehaviour
    
     public int health = 100;
 
-    public GameObject deathEffect;
+    //public GameObject deathEffect;
 
     public void TakeDamage(int damage)
     {

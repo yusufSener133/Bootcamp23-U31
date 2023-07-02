@@ -6,7 +6,7 @@ using UnityEngine.Timeline;
 
 public class PlayerCombat : MonoBehaviour
 {
-    private Animator player_Anim;
+    public Animator player_Anim;
     public Transform attackPoint;
     [SerializeField] private float attackRange = 0.5f;
     public LayerMask enemyLayers;
@@ -24,7 +24,7 @@ public class PlayerCombat : MonoBehaviour
     {
         if (Time.time >= nextAttackTime)
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Mouse1))
             {
                 Attack();
                 nextAttackTime = Time.time + 1f / attackRate;
@@ -37,12 +37,14 @@ public class PlayerCombat : MonoBehaviour
         //Play an attack animation
         player_Anim.SetTrigger("Attack");
         //Detect all enemies in rage of attack
-        Collider2D[] detectedEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        Collider[] detectedEnemies = Physics.OverlapSphere(attackPoint.position, attackRange, enemyLayers);
         //damage them
+        /*
         foreach (Collider2D enemy in detectedEnemies)
-        {
+        { 
             enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
         }
+        */
     }
 
     private void OnDrawGizmosSelected()
