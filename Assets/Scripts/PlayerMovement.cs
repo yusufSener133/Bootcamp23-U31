@@ -10,21 +10,28 @@ public class PlayerMovement : MonoBehaviour
     public float runSpeed = 40f;
     private bool jump = false;
     private float horizontalMove = 0f;
+    private bool jumpEnabled =true;
 
     private void Awake()
     {
         _animator = GetComponent<Animator>();
     }
-
+/*
+    private void Start()
+    {
+        StartCoroutine(CanJumpAgain());
+    }
+*/
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
         _animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
         
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space)&& jumpEnabled)
         { 
             jump = true;
             _animator.SetBool("IsJumping",true);
+            //CanJumpAgain();
         }
         
     }
@@ -39,4 +46,12 @@ public class PlayerMovement : MonoBehaviour
         controller.Move(horizontalMove * Time.fixedDeltaTime, jump);
         jump = false;
     }
+/*
+    private IEnumerator CanJumpAgain()
+    { 
+        jumpEnabled = false;
+       yield return new WaitForSeconds(3f);
+       jumpEnabled = true;
+    }
+    */
 }

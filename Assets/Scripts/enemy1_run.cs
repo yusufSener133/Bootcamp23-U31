@@ -18,6 +18,7 @@ public class enemy1_run : StateMachineBehaviour
         player = GameObject.FindGameObjectWithTag("Player").transform;
         rb = animator.GetComponent<Rigidbody>();
         enemy = animator.GetComponent<Enemy>();
+        enemy.LookAtPlayer();
 
     }
 
