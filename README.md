@@ -81,6 +81,9 @@ Takım Unity 31
 - **Sprint içinde tamamlanması tahmin edilen puan**: 300 Puan
 
 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. Projenin ana işlem yoğunluğu 2. sprinte odaklanılmış, bayram dolayısıyla düzenleme yapılmıştır.
+
+
 - **Daily Scrum**: Genel olarak düzenli bir şekilde ilerlenmeye çalışıldı.
 [Daily Scrum](https://cdn.discordapp.com/attachments/1116092237571440730/1125052847923404960/Daily_Scrum.txt)
 
@@ -98,8 +101,10 @@ Takım Unity 31
 - **Sprint Review**: Alınan kararlar:
   - Bir sonraki sprint için birbirimizin bölümlerine karşı revizeler ve düzenlemeler kararlaştırıldı. 
 
+
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
 
 ## Product Backlog URL
 [Team U-31 Trello Çalışma Alanı](https://trello.com/w/u31calismaalani)
