@@ -106,6 +106,12 @@ Takım Unity 31
   - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 
+- **Sprint Notları:**
+  - Bu sprintte projenin aktif mekanikleri oluşturuldu.
+  - Bayram dolayısıyla iletişimde eksikler oldu.
+  - Oyunun içerisinde 2d ve 3d kısımları arasında geçişler üzerine tartışıldı.
+
+
 ## Product Backlog URL
 [Team U-31 Trello Çalışma Alanı](https://trello.com/w/u31calismaalani)
 
