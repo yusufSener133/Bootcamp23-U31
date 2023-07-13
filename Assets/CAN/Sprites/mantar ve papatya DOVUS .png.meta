@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: b8cad9360bcb62b41bee58afc668f94d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 385
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b976192e369c4c9c75d8c8c1c39ad
+      internalID: 659907945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 385
+        width: 54
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f5e6eb20b03284d8ffd42b8ec3705c
+      internalID: -1116013498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 387
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd98e3a21dc4c841bc1f3d7d880aeb8
+      internalID: -1647440089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 386
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46792102b94be3c448323c2ed097caa2
+      internalID: 191978262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 386
+        width: 72
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c7a2e5d370ea4ca9e7afc78f8145f
+      internalID: -240338287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 387
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87846cd32153d4e984eab72943d7aa
+      internalID: -762156750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 387
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd118508df7b1a0439b1ae412b02ae19
+      internalID: 960381572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _7
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 386
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d97df0b48469c94f814c92294c1d689
+      internalID: 2023206598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _8
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 387
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6746821e2d5d1d144b4afcad85b5b039
+      internalID: -392039760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 257
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda333340e2d604b81e109f551ad76f
+      internalID: 1902629198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d153c6733fad4ec4d87139a48368dac0
+      internalID: -770935173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 259
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ea3ae3cdbf9694d84227a024705417
+      internalID: 1204579491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 259
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87f487630acee54aaeced1c7f833dbd
+      internalID: 2053461397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14602dee860268468cc7917c6319648
+      internalID: -1214380731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 263
+        width: 128
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b8b714392e784e841fe1198c682c8
+      internalID: 2089362700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 259
+        width: 128
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303af87cf1e48954f9a3afb8935e33a8
+      internalID: 1639951778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 259
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ac30c7f65bb34da45a87497e89f74
+      internalID: -450351664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _17
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 259
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e744cadc45d9d4a84f4623b7187693
+      internalID: 1032883002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 129
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f853f1b31ea12d1488098a9b1834cf55
+      internalID: -1534093813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 129
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a4d325b6e289468608fede40a65af
+      internalID: -135079740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 129
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d7c047b7b80964db62c43783f30766
+      internalID: 323728653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 129
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e0d1a45218ee48a2573af4e725bbb
+      internalID: 201830950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 129
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036884a1a3019664aa548fc0b8c2bee8
+      internalID: 893327555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _23
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 129
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340ebb663ed3a24d908e40a57d5aaef
+      internalID: -2023921825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _24
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 129
+        width: 74
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd5bd3236dae64ea8db8f92c3e5ebb
+      internalID: -610133548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 129
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e65f5bf96c2ad45bd2a1d92e4b24c2
+      internalID: -1889233458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 10
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d63ad7888be04e9f5a40dbe84e17e
+      internalID: -1886591843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d51528731eb146b9af0b941d397e3
+      internalID: 89636263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 10
+        width: 54
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16c62f22f6a9b042a75e00a1094203d
+      internalID: -1360830482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 10
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e926e59fc7ecfe42afc53623e3160b8
+      internalID: -998122515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 10
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d98fdb48e6c74fa943445e6efa445
+      internalID: -956311822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _31
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 9
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e3e9290002fd4dac0899942bfc83d
+      internalID: -2091789262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mantar ve papatya DOVUS _32
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 7
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dbaa65ad3ff3c4a811212b5352f0c6
+      internalID: 1841424701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mantar ve papatya DOVUS _0: 659907945
+      mantar ve papatya DOVUS _1: -1116013498
+      mantar ve papatya DOVUS _10: -770935173
+      mantar ve papatya DOVUS _11: 1204579491
+      mantar ve papatya DOVUS _12: 2053461397
+      mantar ve papatya DOVUS _13: -1214380731
+      mantar ve papatya DOVUS _14: 2089362700
+      mantar ve papatya DOVUS _15: 1639951778
+      mantar ve papatya DOVUS _16: -450351664
+      mantar ve papatya DOVUS _17: 1032883002
+      mantar ve papatya DOVUS _18: -1534093813
+      mantar ve papatya DOVUS _19: -135079740
+      mantar ve papatya DOVUS _2: -1647440089
+      mantar ve papatya DOVUS _20: 323728653
+      mantar ve papatya DOVUS _21: 201830950
+      mantar ve papatya DOVUS _22: 893327555
+      mantar ve papatya DOVUS _23: -2023921825
+      mantar ve papatya DOVUS _24: -610133548
+      mantar ve papatya DOVUS _25: -1889233458
+      mantar ve papatya DOVUS _26: -1886591843
+      mantar ve papatya DOVUS _27: 89636263
+      mantar ve papatya DOVUS _28: -1360830482
+      mantar ve papatya DOVUS _29: -998122515
+      mantar ve papatya DOVUS _3: 191978262
+      mantar ve papatya DOVUS _30: -956311822
+      mantar ve papatya DOVUS _31: -2091789262
+      mantar ve papatya DOVUS _32: 1841424701
+      mantar ve papatya DOVUS _4: -240338287
+      mantar ve papatya DOVUS _5: -762156750
+      mantar ve papatya DOVUS _6: 960381572
+      mantar ve papatya DOVUS _7: 2023206598
+      mantar ve papatya DOVUS _8: -392039760
+      mantar ve papatya DOVUS _9: 1902629198
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
