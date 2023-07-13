@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: uyuyan gorevli_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4806a9f25a74684685a593bf3125cfa
+      internalID: -1249290548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46f9ac4da1639947a5a538bea586d60
+      internalID: -5075686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e043081d72f14a97438cfd46af768
+      internalID: 1946710505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b416e999a9cf7084aa3cfe411f948bb3
+      internalID: 1434078414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 61
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd716b1c2d2884cbb1572e823a7d06
+      internalID: -1360968698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cecf3b2e9d62934ab126eefddbde731
+      internalID: -1528780399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54caf434ad88e41b1c97a462b74cbc
+      internalID: 1510706101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ce68b4ad309f49a59194a54bad5af
+      internalID: 2050932727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uyuyan gorevli_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f8861da63438d448b20239ea6e6289
+      internalID: 379638735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +315,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      uyuyan gorevli_0: -1249290548
+      uyuyan gorevli_1: -5075686
+      uyuyan gorevli_2: 1946710505
+      uyuyan gorevli_3: 1434078414
+      uyuyan gorevli_4: -1360968698
+      uyuyan gorevli_5: -1528780399
+      uyuyan gorevli_6: 1510706101
+      uyuyan gorevli_7: 2050932727
+      uyuyan gorevli_8: 379638735
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
