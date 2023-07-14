@@ -16,7 +16,7 @@ public class ItemCollector : MonoBehaviour
             
             Destroy (collision.gameObject);
         meyve++;
-        MeyveText.text = "Meyveler: " + meyve;
+        MeyveText.text = "Yiyecek: " + meyve;
       
         
     }
