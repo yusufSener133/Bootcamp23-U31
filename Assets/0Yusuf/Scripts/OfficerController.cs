@@ -34,11 +34,12 @@ namespace Y
         void LoseGame()
         {
             GetComponent<Animator>().SetBool("Wake", true);
-            _player.StopGame = true;
-            _playerAnim.SetBool("Right", false);
-            _playerAnim.SetBool("Left", false);
-            _playerAnim.SetBool("Up", false);
-            _playerAnim.SetBool("Down", false);
+            //_player.StopGame = true;
+            _player.enabled = false;
+            //_playerAnim.SetBool("Right", false);
+            //_playerAnim.SetBool("Left", false);
+            //_playerAnim.SetBool("Up", false);
+            //_playerAnim.SetBool("Down", false);
         }
         public void OfficerWakeUp()
         {
