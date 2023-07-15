@@ -16,9 +16,7 @@ namespace Y
         [SerializeField] private TMP_Text _bestScore;
         private void Start()
         {
-            
             _bestScore.text = "Best Score: " + (int)GameManager.Instance.Timer;
-            Debug.Log(GameManager.Instance.Timer);
         }
         public void StartGame()
         {
@@ -26,16 +24,19 @@ namespace Y
             _game1.SetActive(true);
             Debug.Log(GameManager.Instance.Timer);
         }
+        public void NextGame()
+        {
+            _game1.SetActive(false);
+            _game2.SetActive(true);
+        }
         public void WinGame()
         {
             if (PlayerPrefs.GetFloat("BestScore") < GameManager.Instance.Timer)
                 PlayerPrefs.SetFloat("BestScore", GameManager.Instance.Timer);
-            _game1.SetActive(false);
-            _game2.SetActive(true);
         }
         public void LoseGame()
         {
             _game1.SetActive(true);
         }
-    }
+    }/**/
 }

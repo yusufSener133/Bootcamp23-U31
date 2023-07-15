@@ -9,11 +9,7 @@ namespace Y
         public static GameManager Instance { get => _instance; }
 
         private float _timer = 0;
-        public float Timer
-        {
-            get => _timer;
-            set => _timer = value;
-        }
+        public float Timer { get => _timer; set => _timer = value; }
         private void Awake()
         {
             if (_instance == null)

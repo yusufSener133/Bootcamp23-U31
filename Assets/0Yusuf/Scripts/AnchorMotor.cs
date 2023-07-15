@@ -31,9 +31,7 @@ namespace Y
         void Update()
         {
             if (_isRunning)
-            {
                 RotatePaddle();
-            }
         }
         private void OnTriggerEnter2D(Collider2D collision)
         {
@@ -53,13 +51,12 @@ namespace Y
         }
         void ChangeDirection()
         {
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
                 _direction *= -1;
         }
-
         void GamePoint()
         {
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
             {
                 if (_remainderDots <= 0)
                 {
@@ -116,15 +113,13 @@ namespace Y
 
             }
         }
-
         void WinLockGame()
         {
             _WinPanels.SetActive(true);
         }
-
-        void LoseLockGame() 
+        void LoseLockGame()
         {
             _LosePanels.SetActive(true);
         }
-    }
+    }/**/
 }
