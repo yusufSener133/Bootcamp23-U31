@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class CharacterController : MonoBehaviour
+namespace CAN
+{
+    public class CharacterController : MonoBehaviour
 {
     [SerializeField] private float m_JumpForce = 400f;
     [Range(0, .3f)] [SerializeField] private float m_MovementSmoothing = .05f; // How much to smooth out the movement
@@ -99,4 +101,4 @@ public class CharacterController : MonoBehaviour
         transform.Rotate(0f, 180f, 0f);
     }
 }
-
+}

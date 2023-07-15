@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class enemy1_run : StateMachineBehaviour
+namespace CAN
 {
-    
+    public class enemy1_run : StateMachineBehaviour
+{
     public float speed = 2.5f;
     public float attackRange = 2f;
 
@@ -40,4 +41,5 @@ public class enemy1_run : StateMachineBehaviour
     {
         animator.ResetTrigger("Attack");
     }
+}
 }

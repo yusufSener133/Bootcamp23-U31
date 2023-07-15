@@ -12,7 +12,7 @@ public class CameraFollow : MonoBehaviour
     private void LateUpdate()
     {
         // Hedefin pozisyonunu alırken yükseklik değerini korumak için Z eksenini değiştiriyoruz
-        Vector3 desiredPosition = new Vector3(target.position.x, target.position.y, transform.position.z) + offset;
+        Vector3 desiredPosition = new Vector3(target.position.x, target.position.y + 2, transform.position.z) + offset;
 
         // Yumuşak bir geçişle kamerayı hedef pozisyona taşıyoruz
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);

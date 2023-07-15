@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class PlayerHealth : MonoBehaviour
+namespace CAN
 {
-   
+    public class PlayerHealth : MonoBehaviour
+{
+    public GameManager _gameManager;
     public int health = 100;
 
     public Animator pl_anim;
@@ -17,15 +19,11 @@ public class PlayerHealth : MonoBehaviour
 
         if (health <= 0)
         {
-            Die();
+            _gameManager.GameOver();
         }
     }
 
-    void Die()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        
-    }
+
 
     // IEnumerator DamageAnimation()
     // {
@@ -52,4 +50,5 @@ public class PlayerHealth : MonoBehaviour
     //         yield return new WaitForSeconds(.1f);
     //     }
     // }
+}
 }

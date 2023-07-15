@@ -3,10 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyAttack : MonoBehaviour
+namespace CAN
+{
+    public class EnemyAttack : MonoBehaviour
 {
     public int attackDamage = 10; 
-    float _timer = 1f;
+    float _timer = 2f;
+    private bool attackCheck;
+    private Transform player;
     
    // public int enragedAttackDamage = 40;
 
@@ -16,17 +20,11 @@ public class EnemyAttack : MonoBehaviour
 
     public void Attack()
     {
-        Vector3 pos = transform.position;
-        // pos += transform.right * attackOffset.x;
-        // pos += transform.up * attackOffset.y;
-
-        Collider2D colInfo = Physics2D.OverlapCircle(pos, attackRange, attackMask);
-        if (colInfo != null)
+        if (attackCheck && _timer >= 2)
         {
-            Debug.Log("hasar verildi");
-            colInfo.GetComponent<PlayerHealth>().TakeDamage(attackDamage);
+            _timer = 0f;
+            player.GetComponent<PlayerHealth>().TakeDamage(attackDamage);
         }
-        
     }
 
     private void Update()
@@ -36,11 +34,15 @@ public class EnemyAttack : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
-        if (other&& _timer >= 1)
+        if (other.CompareTag("Player") )
         {
-            Debug.Log("hasar verildi");
-            _timer = 0f;
-            other.GetComponent<PlayerHealth>().TakeDamage(attackDamage);
+            player = other.transform;
+            attackCheck = true;
+        }
+        else
+        {
+            attackCheck = false;
+            player = null;
         }
     }
 
@@ -52,4 +54,5 @@ public class EnemyAttack : MonoBehaviour
 
         Gizmos.DrawWireSphere(pos, attackRange);
     }
+}
 }

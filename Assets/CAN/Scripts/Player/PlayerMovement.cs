@@ -3,7 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class  PlayerMovement : MonoBehaviour
+namespace CAN
+{
+    public class  PlayerMovement : MonoBehaviour
 {
     public CharacterController controller;
     private Animator _animator;
@@ -54,4 +56,5 @@ public class  PlayerMovement : MonoBehaviour
        jumpEnabled = true;
     }
     */
+}
 }
