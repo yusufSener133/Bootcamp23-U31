@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Finish : MonoBehaviour
 {
-//private Animator anim;
+private Animator anim;
     private AudioSource finishSound;
     private bool levelCompleted = false;
     //[SerializeField] private Animator finish;
@@ -15,7 +15,7 @@ public class Finish : MonoBehaviour
     void Start()
     {
         finishSound=GetComponent<AudioSource>();
-        //anim = GetComponent<Animator>();
+        anim = GetComponent<Animator>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -24,6 +24,7 @@ public class Finish : MonoBehaviour
 if (collision.gameObject.name =="Player" && !levelCompleted)
 {finishSound.Play();
 levelCompleted = true;
+anim.SetBool("finishbool", true);
 
 
 
