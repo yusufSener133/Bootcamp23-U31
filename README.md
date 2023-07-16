@@ -116,3 +116,45 @@ Takım Unity 31
 [Team U-31 Trello Çalışma Alanı](https://trello.com/w/u31calismaalani)
 
 ---
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. Projenin tamamlanması amacıyla 3. sprint için sadeleştirmeler yapılmıştır.
+
+
+- **Daily Scrum**: Genel olarak düzenli bir şekilde ilerlenmeye çalışıldı.
+[Daily Scrum]()
+
+
+- **Sprint board update**: Sprint board screenshotı:
+  ![Backlog 2]()
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]()
+  ![Screenshot 2]()
+  ![Screenshot 3]()
+
+
+- **Sprint Review**: Alınan kararlar:
+  - Github problemleri olabileceğinden Github üzerine ekstra zaman ayırılmıştır
+
+
+- **Sprint Retrospective:**
+  - İletişim eksikliği üzerine gelişim gösterilmek üzere tartışıldı.
+
+
+- **Sprint Notları:**
+  - Bu sprintte projenin mekanikleri tamamlandı.
+  - Balance ayarları üzerine az çalışıldı.
+  - Oyunun içerisinde 2d ve 3d kısımları arasında geçişler üzerine tartışıldı.
+
+
+## Product Backlog URL
+[Team U-31 Trello Çalışma Alanı](https://trello.com/w/u31calismaalani)
+
+---
+
