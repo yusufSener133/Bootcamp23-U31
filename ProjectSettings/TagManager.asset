@@ -6,6 +6,13 @@ TagManager:
   tags:
   - CinemachineTarget
   - UI
+  - Trap
+  - Dot
+  - Ball
+  - Door
+  - Anchor
+  - meyve
+  - tuzak
   layers:
   - Default
   - TransparentFX
@@ -42,4 +49,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 517133707
     locked: 0

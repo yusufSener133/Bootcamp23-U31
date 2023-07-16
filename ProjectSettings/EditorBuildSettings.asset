@@ -6,9 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/0Game/Scene/Atari Salon.unity
+    path: Assets/0Game/0Scene/Atari Salon.unity
     guid: 16b7a775dcff1f04eae0e9306688bd99
   - enabled: 1
-    path: Assets/0KacisOyunu/Scenes/Kacis.unity
+    path: Assets/1KacisOyunu/0Scenes/Kacis.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/2PiknikOyunu/0Scenes/0Start Screen 1.unity
+    guid: 07d5a73e1a8a3bb45b9735572f377752
+  - enabled: 1
+    path: Assets/2PiknikOyunu/0Scenes/1Sbu_platform 1.unity
+    guid: 4867ea6660974f349ac065dbe1a1fc1d
+  - enabled: 1
+    path: Assets/2PiknikOyunu/0Scenes/2Sbu_platform.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/2PiknikOyunu/0Scenes/3End Screen.unity
+    guid: dd3874c7839f3a449b67cfc9e9a214c4
   m_configObjects: {}
