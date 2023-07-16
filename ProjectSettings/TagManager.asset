@@ -8,6 +8,7 @@ TagManager:
   - Anchor
   - Dot
   - Trap
+  - Ball
   layers:
   - Default
   - TransparentFX
