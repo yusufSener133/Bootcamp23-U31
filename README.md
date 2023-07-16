@@ -85,14 +85,17 @@ Takım Unity 31
 
 
 - **Daily Scrum**: Genel olarak düzenli bir şekilde ilerlenmeye çalışıldı.
+
 [Daily Scrum](https://cdn.discordapp.com/attachments/1116092237571440730/1125052847923404960/Daily_Scrum.txt)
 
 
 - **Sprint board update**: Sprint board screenshotı:
+
   ![Backlog 2](https://media.discordapp.net/attachments/1116092237571440730/1125061623044911245/Screenshots.jpg?width=620&height=454)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
   ![Screenshot 1](https://media.discordapp.net/attachments/1116092237571440730/1122534756643504248/image.png?width=824&height=454)
   ![Screenshot 2](https://media.discordapp.net/attachments/1116092237571440730/1125063405649285250/Screenshot_1.png?width=817&height=454)
   ![Screenshot 3](https://media.discordapp.net/attachments/1116092237571440730/1125054044046635068/Ekran_goruntusu_2023-07-02_161729.png?width=806&height=453)
