@@ -126,10 +126,12 @@ Takım Unity 31
 
 
 - **Daily Scrum**: Genel olarak düzenli bir şekilde ilerlenmeye çalışıldı.
+  
 [Daily Scrum](https://cdn.discordapp.com/attachments/1116092237571440730/1130214066871353465/DailyScrum3.txt)
 
 
 - **Sprint board update**: Sprint board screenshotı:
+  
   ![Backlog 3](https://media.discordapp.net/attachments/1116092237571440730/1130218565962833960/Yeni_Proje_1.png?width=637&height=459)
 
 
