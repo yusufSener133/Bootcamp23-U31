@@ -12,14 +12,7 @@ namespace Emre
             _startscreen.SetActive(false);
             _game.SetActive(true);
         }
-        public void QuitButton()
-        {
-            Application.Quit();
-        }
-        public void SceneUpload(int sceneIndex)
-        {
-            SceneManager.LoadScene(sceneIndex);
-        }
-
+        public void QuitButton() => Application.Quit();
+        public void SceneUpload(int sceneIndex) => SceneManager.LoadScene(sceneIndex);
     }
 }
