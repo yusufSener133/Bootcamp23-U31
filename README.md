@@ -130,7 +130,7 @@ Takım Unity 31
 
 
 - **Sprint board update**: Sprint board screenshotı:
-  ![Backlog 2]()
+  ![Backlog 3](https://discord.com/channels/1114992414843748436/1116092237571440730/1130218566206099497)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
