@@ -139,13 +139,16 @@ Takım Unity 31
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
+
+  ![Screenshot 1](https://cdn.discordapp.com/attachments/1116092237571440730/1130219708659007508/Screenshot_1.png)
+
   ![Screenshot 2]()
+
   ![Screenshot 3]()
 
 
 - **Sprint Review**: Alınan kararlar:
-  - Github problemleri olabileceğinden Github üzerine ekstra zaman ayırılmıştır
+  - Github problemleri olabileceğinden Github üzerine ekstra zaman ayırılmıştır.
 
 
 - **Sprint Retrospective:**
