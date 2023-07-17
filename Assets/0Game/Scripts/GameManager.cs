@@ -9,6 +9,7 @@ namespace Emre
         [SerializeField] GameObject _startscreen, _game;
         private void Start()
         {
+            Time.timeScale = 1;
             Cursor.visible = false;
             Cursor.lockState = CursorLockMode.Locked;
             if (PlayerPrefs.GetFloat("CheckScene") == 1)
