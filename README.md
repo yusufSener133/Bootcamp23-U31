@@ -142,9 +142,11 @@ Takım Unity 31
 
   ![Screenshot 1](https://cdn.discordapp.com/attachments/1116092237571440730/1130219708659007508/Screenshot_1.png)
 
-  ![Screenshot 2]()
+  ![Screenshot 2](https://media.discordapp.net/attachments/1116092237571440730/1130320034124804148/Screenshot_1.png)
 
-  ![Screenshot 3]()
+  ![Screenshot 3](https://cdn.discordapp.com/attachments/1116092237571440730/1130320182779314227/Screenshot_2.png)
+
+  ![Screenshot 4](https://cdn.discordapp.com/attachments/1116092237571440730/1130320973762146405/Screenshot_3.png)
 
 
 - **Sprint Review**: Alınan kararlar:
