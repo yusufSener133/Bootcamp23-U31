@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: f01d054e40e98b041aa6815970e4ee8e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 390
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f30e67de0332c2428a2b84563690fdb
+      internalID: 371472726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 390
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2ae6810e48ef4cb32def575dbfe67
+      internalID: -492027196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 390
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4cb76c4e679848a18c0aa83804bbc
+      internalID: 1369101632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 390
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9831f6c6cb2d4fd4aa147e2fdbe7009d
+      internalID: -1149847634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 390
+        width: 34
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838b860daba4fd4a9434747941a93c8
+      internalID: 843143327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 390
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003df5804b63f4489741db9de710031
+      internalID: 969902267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 390
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46877cdee6e125f4684259ffae1c2b4d
+      internalID: -641986354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 390
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10aa1bdbedfd924ab5b1fd12bf053b5
+      internalID: 1125648677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 390
+        width: 34
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455bf1739e9524498ab2919d828314b
+      internalID: -608662908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 390
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d59ca5c996fbb4581053a1c2f3cf9c
+      internalID: -639845868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 391
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c4e200850d3e94d8e06926f9bc4b0e
+      internalID: -2085158713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_11
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 397
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee505fe2cfcb69446ad9c73b5d9fe79e
+      internalID: 1388247969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 390
+        width: 34
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3a35da22bb524e9e2f6c4fa5c5efd
+      internalID: 582777252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 260
+        width: 39
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9e3aa889cb314b87f5830ddc410dd
+      internalID: -1463525390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 33
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021946ad61b40734489f4c743ee0f6f5
+      internalID: 878417041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 260
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b7e643026ba545b79b672bee55be5
+      internalID: -1299516773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 260
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313025cbfaa361e4787553334b95ee30
+      internalID: -468315577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 260
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed3cffa14d88943a089d947ca381fc
+      internalID: 616141725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 260
+        width: 33
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb48d9a20f05b7344abe1edb1c1c2fb0
+      internalID: -2020205914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 260
+        width: 39
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d6191631ac84441833e3e9b36acacf
+      internalID: 430978946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 260
+        width: 39
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352733630b52614e84fbb910fe48129
+      internalID: -2046901668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 260
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd0df8899d062c44904dc7edcef41a2
+      internalID: 790317320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_22
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 260
+        width: 39
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3fa0ebf0077c046a9022330b86caf7
+      internalID: 740196691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d437c8330729a4c4bb3bf0815d3f689e
+      internalID: -1400454221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 134
+        width: 39
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc314210d739ba74e8cee67afbe2f934
+      internalID: 545916221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 134
+        width: 39
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4846686fbcff8fe4f9577e857929a4d4
+      internalID: 496464875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 134
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb2349302e782a40ac7cadae399ce0a
+      internalID: -182501201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_27
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 134
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2359ea035f6f9c408e8fec73b4dfc84
+      internalID: 320125593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 134
+        width: 38
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb05af94567f4664e85fb2d5a1998289
+      internalID: 589054597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 134
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de0ef60806a07449ea370722941fc4
+      internalID: 476612588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_30
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 134
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed44b95e3cf334abb064cbb7d4ed92
+      internalID: -1086808250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 134
+        width: 38
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402960a2be64c74a8558b053ea3ab92
+      internalID: -370151081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dusman idle vurus yurume hasar_32
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 134
+        width: 38
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed395927e92ae524b982775eb4cb6ff7
+      internalID: 1002025164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dusman idle vurus yurume hasar_0: 371472726
+      dusman idle vurus yurume hasar_1: -492027196
+      dusman idle vurus yurume hasar_10: -2085158713
+      dusman idle vurus yurume hasar_11: 1388247969
+      dusman idle vurus yurume hasar_12: 582777252
+      dusman idle vurus yurume hasar_13: -1463525390
+      dusman idle vurus yurume hasar_14: 878417041
+      dusman idle vurus yurume hasar_15: -1299516773
+      dusman idle vurus yurume hasar_16: -468315577
+      dusman idle vurus yurume hasar_17: 616141725
+      dusman idle vurus yurume hasar_18: -2020205914
+      dusman idle vurus yurume hasar_19: 430978946
+      dusman idle vurus yurume hasar_2: 1369101632
+      dusman idle vurus yurume hasar_20: -2046901668
+      dusman idle vurus yurume hasar_21: 790317320
+      dusman idle vurus yurume hasar_22: 740196691
+      dusman idle vurus yurume hasar_23: -1400454221
+      dusman idle vurus yurume hasar_24: 545916221
+      dusman idle vurus yurume hasar_25: 496464875
+      dusman idle vurus yurume hasar_26: -182501201
+      dusman idle vurus yurume hasar_27: 320125593
+      dusman idle vurus yurume hasar_28: 589054597
+      dusman idle vurus yurume hasar_29: 476612588
+      dusman idle vurus yurume hasar_3: -1149847634
+      dusman idle vurus yurume hasar_30: -1086808250
+      dusman idle vurus yurume hasar_31: -370151081
+      dusman idle vurus yurume hasar_32: 1002025164
+      dusman idle vurus yurume hasar_4: 843143327
+      dusman idle vurus yurume hasar_5: 969902267
+      dusman idle vurus yurume hasar_6: -641986354
+      dusman idle vurus yurume hasar_7: 1125648677
+      dusman idle vurus yurume hasar_8: -608662908
+      dusman idle vurus yurume hasar_9: -639845868
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
